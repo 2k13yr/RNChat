@@ -50,8 +50,8 @@ react-native run-android
 
 
 # 运行界面
-<img src="./assets/preview/1.jpg" height="500" width="280">
-<img src="./assets/preview/2.jpg" height="500" width="280">
+<img src="./assets/preview/1.jpg" height="500" width="280" float="left">
+<img src="./assets/preview/2.jpg" height="500" width="280" float="left">
 <img src="./assets/preview/3.png" height="500" width="280">
 <img src="./assets/preview/4.jpg" height="500" width="280">
 <img src="./assets/preview/5.png" height="500" width="280">
