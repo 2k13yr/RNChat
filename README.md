@@ -50,32 +50,32 @@ react-native run-android
 
 
 # 运行界面
-<img src="./assets/preview/1.jpg" height="500" width="300">
-![2](./assets/preview/2.jpg)
-![3](./assets/preview/3.png)
-![4](./assets/preview/4.jpg)
-![5](./assets/preview/5.png)
-![6](./assets/preview/6.jpg)
-![7](./assets/preview/7.png)
-![8](./assets/preview/8.jpg)
-![9](./assets/preview/9.png)
-![10](./assets/preview/10.jpg)
-![11](./assets/preview/11.png)
-![12](./assets/preview/12.jpg)
-![13](./assets/preview/13.png)
-![14](./assets/preview/14.jpg)
-![15](./assets/preview/15.png)
-![16](./assets/preview/16.jpg)
-![17](./assets/preview/17.png)
-![18](./assets/preview/18.jpg)
-![19](./assets/preview/19.png)
-![20](./assets/preview/20.jpg)
-![21](./assets/preview/21.png)
-![22](./assets/preview/22.jpg)
-![23](./assets/preview/23.png)
-![24](./assets/preview/24.jpg)
-![25](./assets/preview/25.png)
-![27](./assets/preview/27.jpg)
+<img src="./assets/preview/1.jpg" height="500" width="280">
+<img src="./assets/preview/2.jpg" height="500" width="280">
+<img src="./assets/preview/3.jpg" height="500" width="280">
+<img src="./assets/preview/4.jpg" height="500" width="280">
+<img src="./assets/preview/5.jpg" height="500" width="280">
+<img src="./assets/preview/6.jpg" height="500" width="280">
+<img src="./assets/preview/7.jpg" height="500" width="280">
+<img src="./assets/preview/8.jpg" height="500" width="280">
+<img src="./assets/preview/9.jpg" height="500" width="280">
+<img src="./assets/preview/10.jpg" height="500" width="280">
+<img src="./assets/preview/11.jpg" height="500" width="280">
+<img src="./assets/preview/12.jpg" height="500" width="280">
+<img src="./assets/preview/13.jpg" height="500" width="280">
+<img src="./assets/preview/14.jpg" height="500" width="280">
+<img src="./assets/preview/15.jpg" height="500" width="280">
+<img src="./assets/preview/16.jpg" height="500" width="280">
+<img src="./assets/preview/17.jpg" height="500" width="280">
+<img src="./assets/preview/18.jpg" height="500" width="280">
+<img src="./assets/preview/19.jpg" height="500" width="280">
+<img src="./assets/preview/20.jpg" height="500" width="280">
+<img src="./assets/preview/21.jpg" height="500" width="280">
+<img src="./assets/preview/22.jpg" height="500" width="280">
+<img src="./assets/preview/23.jpg" height="500" width="280">
+<img src="./assets/preview/24.jpg" height="500" width="280">
+<img src="./assets/preview/25.jpg" height="500" width="280">
+<img src="./assets/preview/27.jpg" height="500" width="280">
 
 
 # 注意事项
